@@ -9,6 +9,11 @@ and DoubleClick for Publishers. The library provides easy ways to store your
 authentication and create SOAP web service clients. It also contains example
 code to help you get started integrating with our APIs.
 
+**Note:** The AdWords API is no longer actively developed and has been replaced
+by the Google Ads API. In case you want to start a new project, you should
+probably use the [Google Ads API Python Client
+Library](https://github.com/googleads/google-ads-python).
+
 ## Getting started
 1. Download and install the library
 
